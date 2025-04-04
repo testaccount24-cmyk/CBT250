@@ -1,0 +1,5 @@
+2025-04-04 06:43:03.999595 - Received CBT.V508.FILE250.PDS from FILE250.XMI 
+2025-04-04 06:43:04.000223 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE250.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:43:04.000365 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE250.PDS, moved to PDS/$$$DOC
+2025-04-04 06:43:04.000501 - Found @FILE250.txt (text/plain) in CBT.V508.FILE250.PDS, moved to PDS/@FILE250
+2025-04-04 06:43:04.000627 - Found DQNAME.txt (text/plain) in CBT.V508.FILE250.PDS, moved to PDS/DQNAME
